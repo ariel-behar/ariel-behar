@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+    <img style="height: 350px; width: auto" alt="Ariel Behar" src="https://github-repositories-images.s3.eu-central-1.amazonaws.com/draft.png">
+</p>
+
 <!--
 **ariel-behar/ariel-behar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
