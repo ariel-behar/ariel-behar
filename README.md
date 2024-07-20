@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <p align="center">
-    <img style="height: 350px; width: auto" alt="Ariel Behar" src="https://github-repositories-images.s3.eu-central-1.amazonaws.com/draft.png">
+    <img style="height: 280px; width: auto" alt="Ariel Behar" src="https://github-repositories-images.s3.eu-central-1.amazonaws.com/draft.png">
 </p>
 
 <!--
